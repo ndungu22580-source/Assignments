@@ -1,4 +1,4 @@
-import java.util.Scanner
+import java.util.Scanner;
 public class DescendingNumbers {
     public static void main(String[] args) {
         // A for loop that starts at 100, 
